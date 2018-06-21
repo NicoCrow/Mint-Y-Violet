@@ -16,7 +16,7 @@ static char *maximize_pressed[] = {
 "* c #8E8E8E",
 "= c gray58",
 "- c #979797",
-"; c #DADADA",
+"; c #dadada",
 ": c #DDDDDD",
 "> c gray88",
 ", c #EAEAEA",
